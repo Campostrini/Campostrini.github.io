@@ -31,41 +31,21 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-
+  
+# Site Author
 author:
-  name: Stefano Campostrini
-  avatar: stefano-portrait.jpg
-  bio: "Meteorology, Physics, AI, Music and anything that's remotely interesting."
-  github: Campostrini
-  bitbucket: #username
-  orcid: #username
-  scholar: #username
-  mendeley: #username
-  researchgate:
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  email:
-  disqus-shortname: #username
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics: #username
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  linkedin: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
+  name             : "Your Name"
+  avatar           : "/images/stefano-portrait.jpg"
+  bio              : "Meteorology, Physics, AI, Music and anything that's remotely interesting."
+  location         : "Italy, Spain, Chile"
+  email            : 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hello@stefanocampostrini.it"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Campostrini"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
