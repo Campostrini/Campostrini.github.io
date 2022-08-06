@@ -1,9 +1,6 @@
 ---
-layout: splash
-published: true
----
----
 layout: home
+published: true
 author_profile: true
 ---
 
