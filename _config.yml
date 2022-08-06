@@ -18,8 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stefano Campostrini
-email: hello@stefanocampostrini.it
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+title: "Stefano Campostrini"
+name: &name "Stefano Campostrini"
 description: >- # this means to ignore newlines until "baseurl:"
   "I'm a Meteorologist and a Physicist. Building new things in my spare time."
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,14 +29,13 @@ url: "https://stefanocampostrini.it" # the base hostname & protocol for your sit
 github_username:  Campostrini
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Stefano Campostrini"
   avatar           : "/images/stefano-portrait.jpg"
   bio              : "Meteorology, Physics, AI, Music and anything that's remotely interesting."
   location         : "Italy, Spain, Chile"
@@ -46,6 +47,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Campostrini"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
