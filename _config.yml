@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-owner:
+author:
   name: Stefano Campostrini
   avatar: stefano-portrait.jpg
   bio: "Meteorology, Physics, AI, Music and anything that's remotely interesting."
