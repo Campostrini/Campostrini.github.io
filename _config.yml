@@ -35,11 +35,10 @@ plugins:
   
 # Site Author
 author:
-  name             : "Stefano Campostrini"
+  name             : *name
   avatar           : "/images/stefano-portrait.jpg"
   bio              : "Meteorology, Physics, AI, Music and anything that's remotely interesting."
   location         : "Italy, Spain, Chile"
-  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
