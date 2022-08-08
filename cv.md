@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
+title: Curriculum Vitae
 permalink: /cv/
 ---
 
