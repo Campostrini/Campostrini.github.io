@@ -48,7 +48,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: &gh-url "https://github.com/Campostrini"
 
-gh-url: &gh-url
+github: &gh-url
 email: &email
       
 footer:
