@@ -47,6 +47,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: &gh-url "https://github.com/Campostrini"
+
+gh-url: &gh-url
+email: &email
       
 footer:
   links:
