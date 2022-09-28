@@ -10,7 +10,7 @@ Projects, who doesn't like them? Unfortunately some of them are not easy to tack
 
 For my MSc Thesis I developed a UNet with Pytorch and Pytorch-Lightning that forecasts the precipitation distribution over northern Germany 1h in advance. It uses the German Weather Service's 1h-cumulative precipitation data from the [RADOLAN](https://www.dwd.de/DE/leistungen/radolan/radolan.html) Routine at t-5h, t-4h, t-3h, t-2h, t-1h, t. The output is for t+1h.
 
-You can read the thesis [here](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/7782855) and find the code and some more details [here](https://github.com/Campostrini/dwd_dl)
+You can read the thesis [here](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/7782855) or [here](/thesis/thesis_deep_learning.pdf) and find the code and some more details [here](https://github.com/Campostrini/dwd_dl)
 
 Although it was a proof of concept the model is still able to abstract the spatial features of the precipitation map. Here are two examples
 
