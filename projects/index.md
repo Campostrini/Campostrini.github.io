@@ -32,7 +32,7 @@ Although it was a proof of concept the model is still able to abstract the spati
 
 Ventricular fibrillation (VFib) is a dangerous arrhythmia. Patients at risk have a (Subcutaneous-)Implantable Cardioverter Defibrillator (S-ICD) or use a Wearable Cardioverter Defibrillator (WCD). After a Myocardial Infarction (MI) the risk of VFib is increased, however this doesn't necessarily lead to the implantation of an ICD.
 
-Idea: use an ECG patch for constant patient telemetry and have an alarm sound for family members if a dangerous arrhythmia is detected. Obviously there needs to be an Automatic External Defibrillator (AED) in the immediate vicinities for this to have sense.
+Idea: use an ECG patch for constant patient telemetry and have an alarm ring for family members if a dangerous arrhythmia is detected. Obviously there needs to be an Automatic External Defibrillator (AED) nearby for this to have sense.
 
 ### A Collection of Risk Calculators
 
