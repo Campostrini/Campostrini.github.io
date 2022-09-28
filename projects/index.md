@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Projects, who doesn't like them? Unfortunately some of them are not easy to tackle alone. This list is a loose collections of projects I would love to collaborate on or things that I have done. Maybe I will use Jekyll Posts or do separate pages in the future. Shoot me an email if you find any of them interesting.
+Projects, who doesn't like them? Unfortunately some of them are not easy to tackle alone. This list is a loose collections of projects I would love to collaborate on or things that I have done. Maybe I will use Jekyll Posts or make separate pages in the future. Shoot me an email if you find any of them interesting.
 
 ### Precipitation Nowcasting with Deep Learning
 
